@@ -1,0 +1,16 @@
+{
+    "name": "Chatbot",
+    "alias": "chatbot",
+    "core": true,
+    "description": "Artifism Chatbot is a chatbot builder platform. Create your own chatbot with our easy-to-use chatbot builder",
+    "keywords": [
+        "chatbot",
+        "chatbot builder",
+        "chatbot platform"
+    ],
+    "priority": 0,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,25 @@
+{
+    "name": "techvillage/chatbot",
+    "description": "This Chatbot is a chatbot builder platform. You can create your own chatbot with our easy-to-use chatbot builder",
+    "authors": [
+        {
+            "name": "techvillage",
+            "email": "support@techvill.net"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Chatbot\\": ""
+        }
+    },
+    "require": {
+        "smalot/pdfparser": "^2.10",
+        "spekulatius/phpscraper": "^2.0"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "PlagiarismCheck",
+    "alias": "plagiarismcheck",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PlagiarismCheck\\Providers\\PlagiarismCheckServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

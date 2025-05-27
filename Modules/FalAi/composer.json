@@ -1,0 +1,23 @@
+{
+    "name": "techvillage/falai",
+    "description": "",
+    "authors": [
+        {
+            "name": "techvillage",
+            "email": "support@techvill.net"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\FalAi\\": ""
+        }
+    }
+}

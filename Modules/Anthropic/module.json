@@ -1,0 +1,13 @@
+{
+    "name": "Anthropic",
+    "alias": "anthropic",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Anthropic\\Providers\\AnthropicServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

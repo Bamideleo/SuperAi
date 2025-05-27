@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 800 400" style="enable-background:new 0 0 800 400;" xml:space="preserve">
+  <style type="text/css">
+    .st0{fill:url(#line-5_1_);}
+  </style>
+  <linearGradient id="line-5_1_" gradientUnits="userSpaceOnUse" x1="0" y1="200" x2="800" y2="200">
+    <stop offset="0%" style="stop-color:#ADFF2F;"/> <!-- Light Green -->
+    <stop offset="25%" style="stop-color:#7CFC00;"/> <!-- Lawn Green -->
+    <stop offset="50%" style="stop-color:#32CD32;"/> <!-- Lime Green -->
+    <stop offset="75%" style="stop-color:#008000;"/> <!-- Green -->
+    <stop offset="100%" style="stop-color:#006400;"/> <!-- Deep Green -->
+  </linearGradient>
+  <path id="line-5" class="st0" d="M32,400H0C0,179.1,179.1,0,400,0c214.7,0,390.9,169.5,399.7,383.4c0.4,8.8-6.5,16.3-15.3,16.6  c-8.8,0.4-16.3-6.5-16.6-15.3C759.6,188,597.5,32,400,32C196.8,32,32,196.8,32,400z"/>
+</svg>

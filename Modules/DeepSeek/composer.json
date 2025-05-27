@@ -1,0 +1,23 @@
+{
+    "name": "techvillage/deepseek",
+    "description": "",
+    "authors": [
+        {
+            "name": "Md. Khayeruzzaman",
+            "email": "shakib.techvill@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\DeepSeek\\": ""
+        }
+    }
+}

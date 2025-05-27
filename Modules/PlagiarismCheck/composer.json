@@ -1,0 +1,23 @@
+{
+    "name": "PlagiarismCheck",
+    "description": "The plagiarism check helps maintain originality by analyzing writing styles and identifying external sources, thereby promoting academic integrity and authenticity. It also supports the use of AI detection tools.",
+    "authors": [
+        {
+            "name": "Md. Khayeruzzaman",
+            "email": "shakib.techvill@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PlagiarismCheck\\": ""
+        }
+    }
+}

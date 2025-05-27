@@ -1,0 +1,13 @@
+{
+    "name": "DeepSeek",
+    "alias": "deepseek",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DeepSeek\\Providers\\DeepSeekServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,9 @@
+/node_modules
+/vendor
+/design
+/vendor/composer/*.php
+npm-debug.log
+yarn-error.log
+.rnd
+composer.lock
+package-lock.json

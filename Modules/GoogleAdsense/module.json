@@ -1,0 +1,13 @@
+{
+    "name": "GoogleAdsense",
+    "alias": "googleadsense",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\GoogleAdsense\\Providers\\GoogleAdsenseServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,23 @@
+{
+    "name": "techvillage/anthropic",
+    "description": "",
+    "authors": [
+        {
+            "name": "techvillage",
+            "email": "shakib.techvill@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Anthropic\\": ""
+        }
+    }
+}

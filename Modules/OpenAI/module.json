@@ -1,0 +1,15 @@
+{
+    "name": "OpenAI",
+    "alias": "openai",
+    "description": "",
+    "core": true,
+    "voiceover": true,
+    "keywords": [],
+    "priority": 0,
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "providers":[
+        "Modules\\OpenAI\\DefaultAiProvider"
+    ]
+}

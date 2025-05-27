@@ -1,0 +1,13 @@
+{
+    "name": "FalAi",
+    "alias": "falai",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FalAi\\Providers\\FalAiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

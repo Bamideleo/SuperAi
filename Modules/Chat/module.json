@@ -1,0 +1,13 @@
+{
+    "name": "Chat",
+    "alias": "chat",
+    "core": true,
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [],
+    "aliases": {},
+    "files": [
+    ],
+    "requires": []
+}

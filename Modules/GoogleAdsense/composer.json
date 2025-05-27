@@ -1,0 +1,23 @@
+{
+    "name": "googleadsense",
+    "description": "Google AdSense is a program that allows website owners to earn money by displaying ads on their pages. Advertisers pay Google for clicks on their ads, and Google shares a portion of that revenue with website owners.",
+    "authors": [
+        {
+            "name": "Md. Khayeruzzaman",
+            "email": "shakib.techvill@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\GoogleAdsense\\": ""
+        }
+    }
+}

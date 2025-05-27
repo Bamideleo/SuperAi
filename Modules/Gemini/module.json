@@ -1,0 +1,13 @@
+{
+    "name": "Gemini",
+    "alias": "gemini",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Gemini\\Providers\\GeminiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

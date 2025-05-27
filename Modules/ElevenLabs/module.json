@@ -1,0 +1,15 @@
+{
+    "name": "ElevenLabs",
+    "alias": "elevenlabs",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ElevenLabs\\Providers\\ElevenLabsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Resources/helper.php"
+    ],
+    "requires": []
+}
